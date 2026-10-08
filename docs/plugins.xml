@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
   <pyqgis_plugin name="SLS MAGIC AUTO-CLEAN" version="1.3" plugin_id="sls_magic">
@@ -7,16 +6,17 @@
     <version>1.3</version>
     <qgis_minimum_version>3.28</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
-    <homepage>https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN</homepage>
+    <homepage>https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN-OFFICIAL</homepage>
     <file_name>sls_magic.zip</file_name>
-    <icon>https://ustadisom-cpu.github.io/SLS-MAGIC-AUTO-CLEAN/icon.png</icon>
+    <icon>icon.png</icon>
+    <download_url>https://ustadisom-cpu.github.io/SLS-MAGIC-AUTO-CLEAN-OFFICIAL/releases/SLS_MAGIC_AUTO_CLEAN_V1.3.zip</download_url>
+    <repository>https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN-OFFICIAL</repository>
+    <tracker>https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN-OFFICIAL/issues</tracker>
     <author_name>SLS MAGIC</author_name>
-    <download_url>https://ustadisom-cpu.github.io/SLS-MAGIC-AUTO-CLEAN/releases/SLS_MAGIC_AUTO_CLEAN_V1.3.zip</download_url>
+    <author_email></author_email>
+    <category>Vector</category>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
-    <tracker>https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN/issues</tracker>
-    <repository>https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN</repository>
     <tags>SLS,topology,QAQC,georeference,desa</tags>
-    <category>Vector</category>
   </pyqgis_plugin>
 </plugins>
