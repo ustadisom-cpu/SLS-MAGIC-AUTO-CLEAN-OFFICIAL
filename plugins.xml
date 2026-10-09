@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugins>
+  <pyqgis_plugin name="SLS MAGIC AUTO-CLEAN" version="1.5" qgis_minimum_version="3.28" qgis_maximum_version="3.99" download_url="https://ustadisom-cpu.github.io/SLS-MAGIC-AUTO-CLEAN-OFFICIAL/SLS_MAGIC_AUTO_CLEAN_V1.5_GITHUB.zip" author_name="SLS MAGIC" homepage="https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN-OFFICIAL" repository="https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN-OFFICIAL" tracker="https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN-OFFICIAL/issues" category="Vector" icon="https://ustadisom-cpu.github.io/SLS-MAGIC-AUTO-CLEAN-OFFICIAL/sls_magic/icon.png" experimental="False" deprecated="False">
+    <description>Professional SLS topology repair, QA/QC, georeference and toolbox workflow.</description>
+    <about>SLS MAGIC AUTO-CLEAN v1.5 - QGIS plugin with topology repair, QA/QC, georeference and toolbox workflows.</about>
+    <version>1.5</version>
+    <qgis_minimum_version>3.28</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+    <author_name>SLS MAGIC</author_name>
+    <homepage>https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN-OFFICIAL</homepage>
+    <tracker>https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN-OFFICIAL/issues</tracker>
+    <repository>https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN-OFFICIAL</repository>
+    <download_url>https://ustadisom-cpu.github.io/SLS-MAGIC-AUTO-CLEAN-OFFICIAL/SLS_MAGIC_AUTO_CLEAN_V1.5_GITHUB.zip</download_url>
+    <file_name>SLS_MAGIC_AUTO_CLEAN_V1.5_GITHUB.zip</file_name>
+    <icon>icon.png</icon>
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <tags>SLS, topology, QAQC, georeference, desa, PSLS</tags>
+  </pyqgis_plugin>
+</plugins>
